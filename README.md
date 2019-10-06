@@ -8,9 +8,9 @@ Organizations are the way in which the activities of human groups are coordinate
 
 Today's organizations are strongly analogic as they depend on a substantial amount of processes happening through offline interactions and decision making. While technology is becoming a key component of every human interaction, the core of each organizations is still strongly analogic, relying on face to face decision making, work execution and evaluation. In this way most of the key activities are left untracked. 
 
-Here we're dealing with organization defined through code, where each interaction must be tracked online and where each activity must be rapresented online, as either data or code, to be considered valid and normative.
+Here we're dealing with organizations defined through code, where each interaction must be tracked online and where each activity must be rapresented online, as either data or code, to be considered valid and normative.
 
-Offline interaction can of course still happen, and this happen increasingly through electronic channels, but the must be inessential and volatile.
+Offline interaction can of course still happen, and this happen increasingly through electronic channels, but they must be inessential and volatile.
 
 One key feature of the Software Defined Organizations that we envision is the ability for all user to keep the entire history of changes and activities visible, creating an immutable history of what has been done.
 
@@ -24,7 +24,14 @@ We believe Software Defined Organization are a key trend in the future of work.
 
 ## Pseudonymous organizations
 
-## Software defined regulation
+## Software defined jurisdictions
+
+Organizations does not exist in a vacuum, and they need to respect laws and regulations. In order to allow the migrations of state laws and regulators in the ecosystem, we need to consider this functions in our model.
+
+Also, laws and regulations need to adapt and evolve in time.
+
+Legislature, Executive, Judiciary - orizontal
+Territoriality - Vertical
 
 GRC
 
