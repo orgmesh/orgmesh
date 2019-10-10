@@ -18,45 +18,46 @@ Software Defined Organizations can obey to different organization models, for ex
 
 Software Defined Organizations enable Decentralized Organizations, where every organization's activity happens through a collective, peer-to-peer org structure instead of a hyierarchical chain of command.
 
-Also, SDO allows pseudonymous organizations to happen, where individuals do not necessarily need to discluse their identity in order to contribute work to the organization.
+Also, SDO allows *pseudonymous organizations* to happen, where individuals do not necessarily need to discluse their identity in order to contribute work to the organization.
 
 We believe Software Defined Organization are a key trend in the future of work.
 
-## Pseudonymous organizations
-
-## Software defined jurisdictions
+## Software Defined Ecosystems
 
 Organizations does not exist in a vacuum, and they need to respect laws and regulations. In order to allow the migrations of state laws and regulators in the ecosystem, we need to consider this functions in our model.
 
-Also, laws and regulations need to adapt and evolve in time.
+In real world, organization exists within or across states and are subject to multiple laws and regulations.
+
+Also, laws and regulations need to adapt and evolve in time and each ecosystem legislative power.
 
 Legislature, Executive, Judiciary - orizontal
 Territoriality - Vertical
 
 GRC
 
-
+mesh
 
 ## Organization Mesh
 
 ## Platforms
 
+low code
+citizen developer
+
+
 ## DAOs
+
+vs real world DO
 
 ## Store
 
 users
 
-# Real world DO
-
-## Low code
-
-citizen developer
 
 ## Foundation data model
 
 key components of a SDO
 
-## Entities and methods
+Entities and methods
 
 ## References
