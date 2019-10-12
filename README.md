@@ -28,30 +28,54 @@ Organizations does not exist in a vacuum, and they need to respect laws and regu
 
 In real world, organization exists within or across states and are subject to multiple laws and regulations.
 
-Also, laws and regulations need to adapt and evolve in time and each ecosystem legislative power.
+Ecosystems must include the Legislative, Executive, Judiciary powers.
 
-Legislature, Executive, Judiciary - orizontal
-Territoriality - Vertical
+Laws and regulations need to adapt and evolve in time, based on either permissioned or permissionless mechanisms.
+
+A single SDO can align with one or more ecosystems. To do that, it must comply with laws and regulations and respect both Executive and Judiciary powers within the ecosystem.
+
+Each ecosystem should be able to provide one or more templates for SDO.
+
+Legislations are rule based. Each lay should be struvtured on Autority Documents, hierarchically structured.
 
 GRC
 
-mesh
 
 ## Organization Mesh
 
-## Platforms
+SDO are organized within a mesh. Each two SDO may have a relationship with shared data and processes.
 
-low code
-citizen developer
+For example, two organization collaborating on sales may share a list of opportunities
 
 
-## DAOs
+## Platforms for SDOs
 
-vs real world DO
+Which is the best platform for Software Defined Organizations and Ecosystems.
 
-## Store
+In our opinion, SDOs must look at today's Low Code Application Platform-as-a-Service (LCAP). These platforms allows to define data models and workflows that suites centralized enterprises. The advantage of a low code platform is the possibility for everyone, unrespective of individual coding knowledge, to build upon the platform.
 
-users
+A decentralized LCAP can suites Software Defined Organizations and Ecosystems. 
+
+No existing platform today can be considered a decentralized LCAP. 
+
+Features of the dLCAP platform:
+
+* Identity layer
+
+* decentralized data model
+
+* decentralized workflow
+
+* decentralized storage
+
+* Execution layer
+
+* Oracles
+
+* store
+
+User interface (many)
+
 
 
 ## Foundation data model
