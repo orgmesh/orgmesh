@@ -66,6 +66,8 @@ Features of the dLCAP platform:
 
 * decentralized workflow
 
+* cryptocurrency
+
 * decentralized storage
 
 * Execution layer
