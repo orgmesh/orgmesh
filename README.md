@@ -1,8 +1,8 @@
-# Orgmesh (orgmesh.net)
+# Software Defines Organizations (SDO)
 
 ## Abstract
 
-## Software Defined Organizations
+## Definition
 
 Organizations are the way in which the activities of human groups are coordinated and incentive aligned towards a common purpose.
 
