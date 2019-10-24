@@ -34,7 +34,7 @@ Laws and regulations need to adapt and evolve in time, based on either permissio
 
 A single SDO can align with one or more ecosystems. To do that, it must comply with laws and regulations and respect both Executive and Judiciary powers within the ecosystem.
 
-Each ecosystem should be able to provide one or more templates for SDO.
+Each ecosystem should be able to provide one or more templates for SDO (skeletons) that each organization should be able to extend.
 
 Legislations are rule based. Each lay should be struvtured on Autority Documents, hierarchically structured.
 
@@ -61,22 +61,36 @@ No existing platform today can be considered a decentralized LCAP.
 Features of the dLCAP platform:
 
 * Identity layer
-
-* decentralized data model
-
+* decentralized data dictionary
 * decentralized workflow
-
-* cryptocurrency
-
+* cryptocurrencies
 * decentralized storage
-
-* Execution layer
-
+* decentralized execution layer
 * Oracles
-
 * store
+* User interface(s)
 
-User interface (many)
+### Identity layer
+
+### Decentralized data dictionary
+
+### Decentralized workflow
+
+BPM, IFTTT
+
+### Cryptocurrencies
+
+### Decentralized storage
+
+### Decentralized execution layer
+
+### Oracles
+
+### Store
+
+### User interface(s)
+
+
 
 
 
